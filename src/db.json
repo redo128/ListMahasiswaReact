@@ -1,0 +1,27 @@
+{
+    "mahasiswa" : 
+        [
+            {
+                "id" : 1,
+                "nama" : "jono",
+                "alamat" : "malang"
+            },
+            {
+                "id" : 2,
+                "nama" : "jojon",
+                "alamat" : "pasuruan"
+            },
+            {
+                "id" : 3,
+                "nama" : "jujun",
+                "alamat" : "pasuruan"
+            }
+        ],
+    "organisasi": [
+            {"id" : 1, "nama" : "HMTI", "sekretariat" : "Gedung AS"},
+            {"id" : 2, "nama" : "RISPOL", "sekretariat" : "Gedung AS"},
+            {"id" : 3, "nama" : "PASTI", "sekretariat" : "Gedung AS"},
+            {"id" : 4, "nama" : "USMA", "sekretariat" : "Gedung AS"},
+            {"id" : 5, "nama" : "SENI", "sekretariat" : "Gedung AS"}
+        ]
+    }

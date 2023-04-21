@@ -1,0 +1,57 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 1680711532515,
+      "title": "",
+      "body": "ukuku"
+    },
+    {
+      "userId": 1,
+      "id": 1680711555404,
+      "title": "",
+      "body": "kokok"
+    },
+    {
+      "userId": 1,
+      "id": 1680711839715,
+      "title": "12321",
+      "body": "sadsad"
+    },
+    {
+      "userId": 1,
+      "id": 1680711969473,
+      "title": "12312",
+      "body": "321321"
+    },
+    {
+      "userId": 1,
+      "id": 1680712146609,
+      "title": "aaaaaaaaaaaaaa",
+      "body": "aaaasd"
+    },
+    {
+      "userId": 1,
+      "id": 1680712177309,
+      "title": "aaaaaaaaaaaaaa",
+      "body": ""
+    },
+    {
+      "userId": 1,
+      "id": 1680712179719,
+      "title": "",
+      "body": ""
+    },
+    {
+      "userId": 1,
+      "id": 1680712241048,
+      "title": "AAAAAAAAAAASCKO",
+      "body": "COBA DEH"
+    }
+  ],
+  "mahasiswa": [],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
